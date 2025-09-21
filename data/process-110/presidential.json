@@ -1,0 +1,1209 @@
+{
+  "pageIndex": 1,
+  "pageSize": 5000,
+  "count": 60.0,
+  "messageLog": null,
+  "data": [
+    {
+      "totalRows": 60,
+      "rowNumber": 1,
+      "id": 134127.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "01211014",
+      "nombreCompleto": "YONHY LESCANO ANCIETA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134127.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 2,
+      "id": 134124.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "40804904",
+      "nombreCompleto": "GISELA TIPE DE LA CRUZ",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134124.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 3,
+      "id": 133886.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "08104229",
+      "nombreCompleto": "LUIS ALBERTO VELARDE YAÑEZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 25.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133886.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 4,
+      "id": 135341.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "10308752",
+      "nombreCompleto": "MARIA DEL CARMEN OMONTE DURAND",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135341.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 5,
+      "id": 135289.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "08194883",
+      "nombreCompleto": "LUIS CARLOS ANTONIO IBERICO NUÑEZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135289.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 6,
+      "id": 136626.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "17903382",
+      "nombreCompleto": "CESAR ACUÑA PERALTA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136626.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 7,
+      "id": 134834.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "00478062",
+      "nombreCompleto": "CORINNE ISABELLE FLORES LEMAIRE",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134834.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 8,
+      "id": 134943.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "09155583",
+      "nombreCompleto": "HERNANDO DE SOTO POLAR",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134943.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 9,
+      "id": 134982.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "07667076",
+      "nombreCompleto": "JAIME OSWALDO SALOMON SALOMON",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134982.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 10,
+      "id": 134937.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "24965523",
+      "nombreCompleto": "ELENA EMPERATRIZ ASCARZA QUISPE",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134937.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 11,
+      "id": 136570.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "09302945",
+      "nombreCompleto": "JAVIER FELIPE ESPINOZA AYAIPOMA",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136570.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 12,
+      "id": 134133.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "19669215",
+      "nombreCompleto": "ANDRES AVELINO ALCANTARA PAREDES",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134133.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 13,
+      "id": 135264.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "08030064",
+      "nombreCompleto": "MAGNO ORTEGA QUISPE",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135264.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 14,
+      "id": 136358.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "10210778",
+      "nombreCompleto": "LEYLA BERROCAL FLOREZ",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136358.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 15,
+      "id": 135595.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "26605193",
+      "nombreCompleto": "MARCO ANTONIO ARANA ZEGARRA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135595.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 16,
+      "id": 134377.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "09537000",
+      "nombreCompleto": "LUIS FERNANDO GALARRETA VELARDE",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134377.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 17,
+      "id": 133878.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "10001088",
+      "nombreCompleto": "KEIKO SOFIA FUJIMORI HIGUCHI",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133878.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 18,
+      "id": 133837.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "07831436",
+      "nombreCompleto": "CARMEN PATRICIA JUAREZ GALLEGOS",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133837.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 19,
+      "id": 136528.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "16606653",
+      "nombreCompleto": "LUZMILA YALU AYAY CASAS",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136528.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 20,
+      "id": 135605.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "40765768",
+      "nombreCompleto": "VERONIKA FANNY MENDOZA FRISCH",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135605.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 21,
+      "id": 136416.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "07886231",
+      "nombreCompleto": "JOSE ANTONIO DE ECHAVE CACERES",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136416.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 22,
+      "id": 137888.0,
+      "idOrganizacionPolitica": 32.0,
+      "organizacionPolitica": "PARTIDO APRISTA PERUANO",
+      "numeroDocumento": "09145157",
+      "nombreCompleto": "HILDEBRANDO IVAN HIDALGO ROMERO",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137888.jpg",
+      "estado": "RETIRO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 23,
+      "id": 137907.0,
+      "idOrganizacionPolitica": 32.0,
+      "organizacionPolitica": "PARTIDO APRISTA PERUANO",
+      "numeroDocumento": "18126499",
+      "nombreCompleto": "OLGA AMELIA CRIBILLEROS SHIGIHARA",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137907.jpg",
+      "estado": "RETIRO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 24,
+      "id": 137777.0,
+      "idOrganizacionPolitica": 32.0,
+      "organizacionPolitica": "PARTIDO APRISTA PERUANO",
+      "numeroDocumento": "19924629",
+      "nombreCompleto": "NIDIA RUTH VILCHEZ YUCRA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137777.jpg",
+      "estado": "RETIRO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 25,
+      "id": 134372.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "23889981",
+      "nombreCompleto": "MATILDE FERNANDEZ FLOREZ",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134372.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 26,
+      "id": 134382.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "18010708",
+      "nombreCompleto": "DANIEL ENRIQUE SALAVERRY VILLA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134382.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 27,
+      "id": 134453.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "40383269",
+      "nombreCompleto": "JORGE LUIS PEREZ FLORES",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134453.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 28,
+      "id": 137283.0,
+      "idOrganizacionPolitica": 2857.0,
+      "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "numeroDocumento": "23962652",
+      "nombreCompleto": "CARLOS RICARDO CUARESMA SANCHEZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137283.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 29,
+      "id": 137271.0,
+      "idOrganizacionPolitica": 2857.0,
+      "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "numeroDocumento": "06280714",
+      "nombreCompleto": "LUIS FERNANDO OLIVERA VEGA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137271.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 30,
+      "id": 137289.0,
+      "idOrganizacionPolitica": 2857.0,
+      "organizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021",
+      "numeroDocumento": "16121633",
+      "nombreCompleto": "ELIZABETH MARIA DEL ROSARIO LEON CHINCHAY",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137289.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 31,
+      "id": 135691.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "07274281",
+      "nombreCompleto": "FRANCISCO RAFAEL SAGASTI HOCHHAUSLER",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135691.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 32,
+      "id": 135685.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "09337130",
+      "nombreCompleto": "JULIO ARMANDO GUZMAN CACERES",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135685.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 33,
+      "id": 135686.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "10213424",
+      "nombreCompleto": "FLOR AIDEE PABLO MEDINA",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135686.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 34,
+      "id": 137757.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10286501",
+      "nombreCompleto": "ANA MARIA DEL MILAGRO SALINAS MEDINA",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137757.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 35,
+      "id": 137760.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "44123390",
+      "nombreCompleto": "OLLANTA MOISES HUMALA TASSO",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137760.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 36,
+      "id": 136484.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "09396443",
+      "nombreCompleto": "LUIS ALBERTO OTAROLA PEÑARANDA",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136484.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 37,
+      "id": 137769.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "06466585",
+      "nombreCompleto": "VLADIMIR ROY CERRON ROJAS",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137769.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 38,
+      "id": 137792.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "27427864",
+      "nombreCompleto": "JOSE PEDRO CASTILLO TERRONES",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137792.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 39,
+      "id": 135388.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "06256217",
+      "nombreCompleto": "DINA ERCILIA BOLUARTE ZEGARRA",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135388.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 40,
+      "id": 134976.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "06630665",
+      "nombreCompleto": "ALBERTO ISMAEL BEINGOLEA DELGADO",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134976.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 41,
+      "id": 133901.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "10545336",
+      "nombreCompleto": "LUCIA DEL PILAR LEDESMA MARTINEZ DE CRUZ",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133901.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 42,
+      "id": 135152.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "09398419",
+      "nombreCompleto": "DAVID IGNACIO VERA TRUJILLO",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135152.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 43,
+      "id": 136938.0,
+      "idOrganizacionPolitica": 55.0,
+      "organizacionPolitica": "PERU PATRIA SEGURA",
+      "numeroDocumento": "08195083",
+      "nombreCompleto": "OSCAR ANDRES REGGIARDO SAYAN",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136938.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 44,
+      "id": 136156.0,
+      "idOrganizacionPolitica": 55.0,
+      "organizacionPolitica": "PERU PATRIA SEGURA",
+      "numeroDocumento": "25699270",
+      "nombreCompleto": "VICTORIA ESPERANZA PAREDES SANCHEZ",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136156.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 45,
+      "id": 136953.0,
+      "idOrganizacionPolitica": 55.0,
+      "organizacionPolitica": "PERU PATRIA SEGURA",
+      "numeroDocumento": "08274605",
+      "nombreCompleto": "RAFAEL GASTON TADEO MILAGROS SANTOS NORMAND",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136953.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 46,
+      "id": 136233.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "08128659",
+      "nombreCompleto": "MARIA TERESA CABRERA VEGA",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136233.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 47,
+      "id": 136188.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "01332358",
+      "nombreCompleto": "WILBERT MARIANO PORTUGAL MENENDEZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136188.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 48,
+      "id": 137291.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "43863835",
+      "nombreCompleto": "DANIEL BELIZARIO URRESTI ELERA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137291.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 49,
+      "id": 134121.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "09381066",
+      "nombreCompleto": "CLAUDIO ALEJANDRO ZOLLA SUAREZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134121.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 50,
+      "id": 134119.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "19813153",
+      "nombreCompleto": "CIRO ALFREDO GALVEZ HERRERA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134119.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 51,
+      "id": 134120.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "06161792",
+      "nombreCompleto": "SONIA GARCIA OSORES",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134120.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 52,
+      "id": 134923.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "07845838",
+      "nombreCompleto": "RAFAEL BERNARDO LOPEZ ALIAGA CAZORLA",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134923.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 53,
+      "id": 133825.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "43328757",
+      "nombreCompleto": "JORGE CARLOS MONTOYA MANRIQUE",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133825.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 54,
+      "id": 134807.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "29567624",
+      "nombreCompleto": "NELDY ROXANA MENDOZA FLORES",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134807.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 55,
+      "id": 134911.0,
+      "idOrganizacionPolitica": 47.0,
+      "organizacionPolitica": "UNION POR EL PERU",
+      "numeroDocumento": "07253288",
+      "nombreCompleto": "HAYDEE ILDARINA ANDRADE RIOS",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134911.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 56,
+      "id": 134912.0,
+      "idOrganizacionPolitica": 47.0,
+      "organizacionPolitica": "UNION POR EL PERU",
+      "numeroDocumento": "10063223",
+      "nombreCompleto": "DANIEL HUGO BARRAGAN COLOMA",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 0.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134912.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 57,
+      "id": 134910.0,
+      "idOrganizacionPolitica": 47.0,
+      "organizacionPolitica": "UNION POR EL PERU",
+      "numeroDocumento": "08330968",
+      "nombreCompleto": "JOSE ALEJANDRO VEGA ANTONIO",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134910.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 58,
+      "id": 137542.0,
+      "idOrganizacionPolitica": 21.0,
+      "organizacionPolitica": "VICTORIA NACIONAL",
+      "numeroDocumento": "41265978",
+      "nombreCompleto": "GEORGE PATRICK FORSYTH SOMMER",
+      "cargo": [
+        "PRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137542.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 59,
+      "id": 136318.0,
+      "idOrganizacionPolitica": 21.0,
+      "organizacionPolitica": "VICTORIA NACIONAL",
+      "numeroDocumento": "10540319",
+      "nombreCompleto": "ANA PATRICIA AREVALO MAJLUF",
+      "cargo": [
+        "PRIMER VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136318.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 60,
+      "rowNumber": 60,
+      "id": 137806.0,
+      "idOrganizacionPolitica": 21.0,
+      "organizacionPolitica": "VICTORIA NACIONAL",
+      "numeroDocumento": "09150740",
+      "nombreCompleto": "JORGE FERNANDO CHAVEZ ALVAREZ",
+      "cargo": [
+        "SEGUNDO VICEPRESIDENTE DE LA REPÚBLICA"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137806.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    }
+  ],
+  "totalPages": 1
+}

@@ -1,0 +1,5129 @@
+{
+  "pageIndex": 1,
+  "pageSize": 5000,
+  "count": 256.0,
+  "messageLog": null,
+  "data": [
+    {
+      "totalRows": 256,
+      "rowNumber": 1,
+      "id": 133898.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "44242860",
+      "nombreCompleto": "LESLYE CAROL LAZO VILLON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133898.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 2,
+      "id": 134212.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "42262252",
+      "nombreCompleto": "FREDY DANTE CALISAYA QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134212.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 3,
+      "id": 134220.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "09734890",
+      "nombreCompleto": "ANA LOPEZ CUEVA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134220.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 4,
+      "id": 134222.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "09491516",
+      "nombreCompleto": "CARLOS MARCELINO MENDOZA GOMEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134222.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 5,
+      "id": 134256.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "47352435",
+      "nombreCompleto": "GABRIELA DEL PILAR COAGUILA CANAZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134256.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 6,
+      "id": 134261.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "10310581",
+      "nombreCompleto": "RICARDO HANNO ZUÑE MORALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134261.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 7,
+      "id": 134651.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "45369316",
+      "nombreCompleto": "YESSY NELIDA FABIAN DIAZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134651.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 8,
+      "id": 134263.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "10323562",
+      "nombreCompleto": "JEAN CARLO GALLEGOS FERNANDEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134263.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 9,
+      "id": 138009.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "08157934",
+      "nombreCompleto": "MARINA VELA VERA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138009.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 10,
+      "id": 134650.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "08792288",
+      "nombreCompleto": "HUMBERTO AGUILAR DURAND",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134650.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 11,
+      "id": 137886.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "07971311",
+      "nombreCompleto": "VICTORIA LUZMILA BRAVO TAVARA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137886.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 12,
+      "id": 134279.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "09390744",
+      "nombreCompleto": "ALFREDO ARSENIO PASCO MALPICA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134279.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 13,
+      "id": 137999.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "42769967",
+      "nombreCompleto": "SHEILA ANDREA EGOAVIL ANGULO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137999.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 14,
+      "id": 134649.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "23853200",
+      "nombreCompleto": "ARMANDO VILLANUEVA MERCADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134649.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 15,
+      "id": 138031.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "43143863",
+      "nombreCompleto": "SANDRA LIZET SILVA SANCHEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138031.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 16,
+      "id": 134267.0,
+      "idOrganizacionPolitica": 4.0,
+      "organizacionPolitica": "ACCION POPULAR",
+      "numeroDocumento": "23978847",
+      "nombreCompleto": "FREDY PALACIOS PAIVA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134267.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 17,
+      "id": 134321.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "09337557",
+      "nombreCompleto": "OMAR KARIM CHEHADE MOYA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134321.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 18,
+      "id": 134381.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "02794608",
+      "nombreCompleto": "MARISOL ESPINOZA CRUZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134381.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 19,
+      "id": 134394.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "44709978",
+      "nombreCompleto": "CESAR AUGUSTO COMBINA SALVATIERRA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134394.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 20,
+      "id": 134339.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "22501041",
+      "nombreCompleto": "ROCIO DEL PILAR RIVERA CARDENAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134339.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 21,
+      "id": 134363.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "02881152",
+      "nombreCompleto": "MARIO JAVIER QUISPE SUAREZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134363.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 22,
+      "id": 135912.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "18114960",
+      "nombreCompleto": "TANIA ROSALIA RODAS MALCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135912.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 23,
+      "id": 135770.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "17837486",
+      "nombreCompleto": "WALTER ARTURO RAMOS BARON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135770.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 24,
+      "id": 136637.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "19809525",
+      "nombreCompleto": "IVONE RUTH TAPIA VIVAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136637.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 25,
+      "id": 134419.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "02436118",
+      "nombreCompleto": "JAVIER ELISBAN PERALTA HUANCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134419.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 26,
+      "id": 137415.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "22474315",
+      "nombreCompleto": "FEBE NOEMI VILLAORDUÑA CASTAÑEDA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137415.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 27,
+      "id": 134254.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "25217976",
+      "nombreCompleto": "RAUL MIGUEL OLIVERA ROSAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134254.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 28,
+      "id": 134337.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "09892236",
+      "nombreCompleto": "LUZ REBECA CRUZ TEVEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134337.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 29,
+      "id": 134380.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "70408728",
+      "nombreCompleto": "JONHATAN JAIRO ORTIZ RODRIGUEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134380.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 30,
+      "id": 135345.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "42764625",
+      "nombreCompleto": "ANA LUCIA RAVINES MERINO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135345.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 31,
+      "id": 134355.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "06776011",
+      "nombreCompleto": "JOSE ANTONIO PALACIOS OBREGON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134355.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 32,
+      "id": 135300.0,
+      "idOrganizacionPolitica": 1257.0,
+      "organizacionPolitica": "ALIANZA PARA EL PROGRESO",
+      "numeroDocumento": "09919590",
+      "nombreCompleto": "JACQUELINE GIOVANA SERVAN TELLO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135300.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 33,
+      "id": 134656.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "10314044",
+      "nombreCompleto": "JUAN CARLOS RAMIREZ LARIZBEASCOA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134656.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 34,
+      "id": 134979.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "10714036",
+      "nombreCompleto": "ESTELITA SONIA BUSTOS ESPINOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134979.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 35,
+      "id": 137587.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "29309866",
+      "nombreCompleto": "MARIO FRANCISCO ZUÑIGA MARTINEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137587.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 36,
+      "id": 137918.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "41594520",
+      "nombreCompleto": "NELLY LADY CUADROS CANDIA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137918.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 37,
+      "id": 137233.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "02804558",
+      "nombreCompleto": "CIRO SALOMON FERIA MADRID",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137233.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 38,
+      "id": 135184.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "43619881",
+      "nombreCompleto": "TERESA DEL PILAR RENGIFO REATEGUI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135184.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 39,
+      "id": 138008.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "18087814",
+      "nombreCompleto": "OSCAR EDUARDO PORTILLA CASTILLO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138008.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 40,
+      "id": 138011.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "18118110",
+      "nombreCompleto": "MAGDA NARCIZA MOZO RODRIGUEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138011.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 41,
+      "id": 135048.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "15581241",
+      "nombreCompleto": "ROSO ALBERTO ROSALES KANEMACZO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135048.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 42,
+      "id": 138012.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "19674843",
+      "nombreCompleto": "ENMA MARIA CENAS CASAMAYOR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138012.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 43,
+      "id": 138014.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "70109351",
+      "nombreCompleto": "JUSTO MELVIN MANRIQUE PADILLA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138014.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 44,
+      "id": 135371.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "09888624",
+      "nombreCompleto": "LADY ELIZABETH SANCHEZ MALPARTIDA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135371.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 45,
+      "id": 138016.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "44300636",
+      "nombreCompleto": "MANUEL FRANCISCO GASCO CRUZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138016.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 46,
+      "id": 138017.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "41621798",
+      "nombreCompleto": "CLARITA MERCEDES LOPEZ RUIZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138017.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 47,
+      "id": 135181.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "41785361",
+      "nombreCompleto": "JACKSON RAUL ALVARADO NOTENO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135181.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 48,
+      "id": 138019.0,
+      "idOrganizacionPolitica": 2173.0,
+      "organizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL",
+      "numeroDocumento": "16704200",
+      "nombreCompleto": "BLANCA ROSA MORI SANCHEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138019.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 49,
+      "id": 135282.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "47919213",
+      "nombreCompleto": "VLADIMIR MATEO CARDENAS CASAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135282.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 50,
+      "id": 136632.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "46194951",
+      "nombreCompleto": "KELY FLORES MAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136632.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 51,
+      "id": 134054.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "08655412",
+      "nombreCompleto": "ANGEL NEYRA OLAYCHEA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134054.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 52,
+      "id": 135279.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "41278755",
+      "nombreCompleto": "NINOSKA GINA GARCILAZO PERALTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135279.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 53,
+      "id": 135565.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "18131845",
+      "nombreCompleto": "CHARLES EYDER ALCANTARA PAREDES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135565.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 54,
+      "id": 136221.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "74310432",
+      "nombreCompleto": "NICOLL PAOLA LOPEZ VALLAGARES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136221.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 55,
+      "id": 134077.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "45134300",
+      "nombreCompleto": "HELIO ANICETO LUIS CASTAÑEDA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134077.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 56,
+      "id": 136955.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "44896337",
+      "nombreCompleto": "ELENA ESTHER CASTILLO LAZARO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136955.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 57,
+      "id": 135267.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "42504464",
+      "nombreCompleto": "SAMUEL ELICEO GARCILAZO PERALTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135267.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 58,
+      "id": 136979.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "73877787",
+      "nombreCompleto": "CANDY JESSENIA MAQUERA AYMER",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136979.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 59,
+      "id": 135259.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "20677602",
+      "nombreCompleto": "ERNESTO GUILLERMO VELASCO VEGA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135259.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 60,
+      "id": 136641.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "15587950",
+      "nombreCompleto": "MARIELA MARTA URBANO RIVERA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136641.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 61,
+      "id": 136222.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "47455012",
+      "nombreCompleto": "ALEX JUNIOR MEJIA CLAROS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136222.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 62,
+      "id": 136216.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "15688927",
+      "nombreCompleto": "NARCISA MARCELINA RIVERA RIVAS DE URBANO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136216.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 63,
+      "id": 133839.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "23853133",
+      "nombreCompleto": "CIRO PACHECO RANILLA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133839.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 64,
+      "id": 136269.0,
+      "idOrganizacionPolitica": 2191.0,
+      "organizacionPolitica": "DEMOCRACIA DIRECTA",
+      "numeroDocumento": "40761064",
+      "nombreCompleto": "SANTOS CECILIA BENITES ROSADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136269.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 65,
+      "id": 137959.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "47115304",
+      "nombreCompleto": "VICTOR RAUL MAITA FRISANCHO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137959.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 66,
+      "id": 135526.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "07348413",
+      "nombreCompleto": "BLANCA ESTELA CAJAHUANCA COLLAO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135526.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 67,
+      "id": 135037.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "06128240",
+      "nombreCompleto": "FRANCISCO FERNANDO GUTIERREZ DELGADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135037.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 68,
+      "id": 137799.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "45120307",
+      "nombreCompleto": "SANDRA NAHELY VARGAS MOLINA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137799.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 69,
+      "id": 137073.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "20650226",
+      "nombreCompleto": "CLODOALDO GODOFREDO HILARIO BRICEÑO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137073.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 70,
+      "id": 136598.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "00426706",
+      "nombreCompleto": "BETSY CHARLOTH ESCOBAR TEJADA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136598.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 71,
+      "id": 136584.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "06924466",
+      "nombreCompleto": "ROLANDO HUMBERTO CAIRO VEGA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136584.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 72,
+      "id": 137043.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "19991936",
+      "nombreCompleto": "NORMA QUISPE CARRION",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137043.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 73,
+      "id": 138028.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "06511787",
+      "nombreCompleto": "ALFONSO TENORIO POLO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/138028.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 74,
+      "id": 136395.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "25692000",
+      "nombreCompleto": "VICTORIA BETZABE LA CRUZ GARCES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136395.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 75,
+      "id": 135964.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "19818289",
+      "nombreCompleto": "WASHINGTON MORI ANDRADE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135964.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 76,
+      "id": 137098.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "46413757",
+      "nombreCompleto": "CARMEN ANGELICA MONTOYA PARRA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137098.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 77,
+      "id": 136708.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "21431894",
+      "nombreCompleto": "LUIS IGNACIO AQUIJE HERNANDEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136708.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 78,
+      "id": 137791.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "71541757",
+      "nombreCompleto": "KATTY ELIZABETH CHANCOS QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137791.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 79,
+      "id": 137023.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "21798967",
+      "nombreCompleto": "JOSE BERNARDINO MEDINA FLORES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137023.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 80,
+      "id": 137821.0,
+      "idOrganizacionPolitica": 2160.0,
+      "organizacionPolitica": "EL FRENTE AMPLIO POR JUSTICIA, VIDA Y LIBERTAD",
+      "numeroDocumento": "20645774",
+      "nombreCompleto": "ADELA PALOMINO FIERRO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137821.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 81,
+      "id": 134143.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "80309272",
+      "nombreCompleto": "ORLANDO GERARDO PEREZ ROJAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134143.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 82,
+      "id": 134158.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "46072015",
+      "nombreCompleto": "FIORELA MARICELA MANCILLA AYLAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134158.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 83,
+      "id": 134502.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "06672054",
+      "nombreCompleto": "ELISEO VICENTE GONZALES MALLMA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134502.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 84,
+      "id": 134162.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "48164535",
+      "nombreCompleto": "MEHIDA PRISMILA ALBORNOZ CHAMBILLA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134162.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 85,
+      "id": 135055.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "41882726",
+      "nombreCompleto": "DOMINGO GUZMAN PIMENTEL SIFUENTES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135055.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 86,
+      "id": 134170.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "18127607",
+      "nombreCompleto": "JUSTA EMERINA ALARCON VILCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134170.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 87,
+      "id": 135031.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "45932671",
+      "nombreCompleto": "SEGUNDO FRANCISCO AGUINAGA GONZALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135031.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 88,
+      "id": 135051.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "43405870",
+      "nombreCompleto": "ERNESTINA TTITO QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135051.jpg",
+      "estado": "RENUNCIA",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 89,
+      "id": 134189.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "00071906",
+      "nombreCompleto": "JULIO GREGORIO MAMANI MAMANI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134189.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 90,
+      "id": 134147.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "08044864",
+      "nombreCompleto": "ELSA GLADYS VIERA QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134147.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 91,
+      "id": 134571.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "21561586",
+      "nombreCompleto": "PELAGIO ZENON TINEO JAURIGUE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134571.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 92,
+      "id": 134183.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "41077593",
+      "nombreCompleto": "LUZ MARLENE ESTEBAN INGAROCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134183.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 93,
+      "id": 134194.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "29613308",
+      "nombreCompleto": "JOSE MAQUERA TORRES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134194.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 94,
+      "id": 134188.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "48719745",
+      "nombreCompleto": "FERNANDA YASMIN INCALUQUE QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134188.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 95,
+      "id": 135079.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "23170203",
+      "nombreCompleto": "GREGORIO ANTAY CCACCYA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135079.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 96,
+      "id": 135094.0,
+      "idOrganizacionPolitica": 2646.0,
+      "organizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU - FREPAP",
+      "numeroDocumento": "42557546",
+      "nombreCompleto": "ZENAIDA ALCA CENCE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135094.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 97,
+      "id": 134377.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "09537000",
+      "nombreCompleto": "LUIS FERNANDO GALARRETA VELARDE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134377.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 98,
+      "id": 133940.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "45833895",
+      "nombreCompleto": "ANAKAREN SOFIA AGUILAR TERRONES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133940.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 99,
+      "id": 133961.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "08723038",
+      "nombreCompleto": "JAIME AGUSTIN SOBERO TAIRA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133961.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 100,
+      "id": 133772.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "29402006",
+      "nombreCompleto": "MARIA CANDELARIA RAMOS ROSALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133772.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 101,
+      "id": 133947.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "06008708",
+      "nombreCompleto": "FELIPE HOMERO CHACARA RAMIREZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133947.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 102,
+      "id": 133787.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "41838886",
+      "nombreCompleto": "FELIPA ROXANA OROSCO NUNTON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133787.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 103,
+      "id": 133768.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "07533183",
+      "nombreCompleto": "NESTOR GUSTAVO ENCINAS TENAZOA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133768.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 104,
+      "id": 134102.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "09991098",
+      "nombreCompleto": "PATRICIA MONICA HERRERA BARRIENTOS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134102.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 105,
+      "id": 133758.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "47727674",
+      "nombreCompleto": "LUIS EDUARDO ACUÑA USCAMAYTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133758.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 106,
+      "id": 134137.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "06209577",
+      "nombreCompleto": "VILMA GRACIELA PACHECO CRIBILLERO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134137.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 107,
+      "id": 133753.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "41563521",
+      "nombreCompleto": "HENRY JAVIER JAHUIRA ROCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133753.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 108,
+      "id": 133927.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "47408998",
+      "nombreCompleto": "ARIANA GABRIELA RUIZ HERRERA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133927.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 109,
+      "id": 133750.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "45134566",
+      "nombreCompleto": "PEDRO MARBELL CASTRO ALVARADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133750.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 110,
+      "id": 133928.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "47711510",
+      "nombreCompleto": "RUTH NOEMI CALDERON JAYO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133928.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 111,
+      "id": 133746.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "71466839",
+      "nombreCompleto": "JUAN DIEGO CIEZA ARAMBULO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133746.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 112,
+      "id": 134112.0,
+      "idOrganizacionPolitica": 1366.0,
+      "organizacionPolitica": "FUERZA POPULAR",
+      "numeroDocumento": "46951146",
+      "nombreCompleto": "GABRIELA MILAGROS SORIA CRUZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134112.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 113,
+      "id": 136689.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "07238397",
+      "nombreCompleto": "LUIS ALBERTO ADRIANZEN MERINO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136689.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 114,
+      "id": 136700.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "06658111",
+      "nombreCompleto": "AIDA DEL CARMEN JESUS GARCIA NARANJO MORALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136700.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 115,
+      "id": 136735.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "21487528",
+      "nombreCompleto": "SAUL ANDRES ARMACANQUI MORALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136735.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 116,
+      "id": 136717.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "10783805",
+      "nombreCompleto": "ANAHI DURAND GUEVARA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136717.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 117,
+      "id": 136416.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "07886231",
+      "nombreCompleto": "JOSE ANTONIO DE ECHAVE CACERES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136416.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 118,
+      "id": 136889.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "19815962",
+      "nombreCompleto": "GLORIA SALINAS VALDEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136889.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 119,
+      "id": 136749.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "31605628",
+      "nombreCompleto": "GREGORIO NILVER LOPEZ AMES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136749.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 120,
+      "id": 136890.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "01255475",
+      "nombreCompleto": "CLAUDIA FAUSTINA COARI MAMANI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136890.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 121,
+      "id": 136891.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "01203752",
+      "nombreCompleto": "ALBERTO EUGENIO QUINTANILLA CHACON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136891.jpg",
+      "estado": "RENUNCIA",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 122,
+      "id": 134313.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "40873612",
+      "nombreCompleto": "ZOILA SOLEDAD YAURI AQUINO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134313.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 123,
+      "id": 136892.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "25402972",
+      "nombreCompleto": "DANTE ALFONSO CASTRO ARRASCO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136892.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 124,
+      "id": 137661.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "46955663",
+      "nombreCompleto": "JENNIFER DENISSE SANCHEZ PACHECO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137661.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 125,
+      "id": 136893.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "06180596",
+      "nombreCompleto": "WALTER AMILCAR FLORES CHOCO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136893.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 126,
+      "id": 137669.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "41436460",
+      "nombreCompleto": "SOFIA POCCORPACHI ESPINOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137669.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 127,
+      "id": 137510.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "04067751",
+      "nombreCompleto": "JUSTINO MEZA BARRETO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137510.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 128,
+      "id": 136894.0,
+      "idOrganizacionPolitica": 1264.0,
+      "organizacionPolitica": "JUNTOS POR EL PERU",
+      "numeroDocumento": "07146412",
+      "nombreCompleto": "PATRICIA MARIA QUISPE RODRIGUEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136894.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 129,
+      "id": 134383.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "44078565",
+      "nombreCompleto": "GUILLERMO ALEJANDRO ANTONIO ALIAGA PAJARES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134383.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 130,
+      "id": 134379.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "42568806",
+      "nombreCompleto": "RUTH SALAZAR CERQUIN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134379.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 131,
+      "id": 134373.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "03483584",
+      "nombreCompleto": "LUIS REYMUNDO DIOSES GUZMAN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134373.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 132,
+      "id": 135252.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "21521255",
+      "nombreCompleto": "TERESA JESUS CASTILLO HUAMAN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135252.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 133,
+      "id": 134453.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "40383269",
+      "nombreCompleto": "JORGE LUIS PEREZ FLORES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134453.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 134,
+      "id": 136193.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "08198771",
+      "nombreCompleto": "MARIA SOLEDAD FERREYROS CASTAÑEDA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136193.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 135,
+      "id": 134364.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "09900022",
+      "nombreCompleto": "YSAAC CHAVEZ SANCHEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134364.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 136,
+      "id": 134360.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "42254979",
+      "nombreCompleto": "IVONNE SUSAN PRINCIPE RENGIFO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134360.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 137,
+      "id": 134353.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "48273311",
+      "nombreCompleto": "BRAULIO JHONY REYES CRISOLO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134353.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 138,
+      "id": 134352.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "18066228",
+      "nombreCompleto": "MONICA ELIZABETH MORENO FUENTES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134352.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 139,
+      "id": 134628.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "72973076",
+      "nombreCompleto": "CESAR CAMILO LANDEO LOPEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134628.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 140,
+      "id": 134351.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "48047903",
+      "nombreCompleto": "ROSA AVELINA SALINAS CRUZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134351.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 141,
+      "id": 134348.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "72879262",
+      "nombreCompleto": "NEIL ALEX JARAMILLO BRAVO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134348.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 142,
+      "id": 137870.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "47724213",
+      "nombreCompleto": "MELANY CINDY TEJADA TICONA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137870.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 143,
+      "id": 135273.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "07714337",
+      "nombreCompleto": "JUAN ALARICO MORALES CORDOVA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135273.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 144,
+      "id": 137846.0,
+      "idOrganizacionPolitica": 14.0,
+      "organizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU",
+      "numeroDocumento": "47460963",
+      "nombreCompleto": "IRISET PAMELA MARIN TOVAR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137846.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 145,
+      "id": 135632.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "08250366",
+      "nombreCompleto": "ZENAIDA SOLIS GUTIERREZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135632.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 146,
+      "id": 136244.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "15961328",
+      "nombreCompleto": "CESAR AGUSTO ALVARADO LAVERIANO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136244.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 147,
+      "id": 135641.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "01307351",
+      "nombreCompleto": "LEONOR AVELINA CHAMBI PALERO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135641.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 148,
+      "id": 135653.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "29534364",
+      "nombreCompleto": "JOSE ANTONIO NUÑEZ SALAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135653.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 149,
+      "id": 136245.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "08635172",
+      "nombreCompleto": "JUANA ESPERANZA JARA CESPEDES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136245.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 150,
+      "id": 135654.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "07022508",
+      "nombreCompleto": "MAXIMO MIGUEL ROMERO HUILCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135654.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 151,
+      "id": 135660.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "41280845",
+      "nombreCompleto": "ELSA RIVEROS BUJAICO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135660.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 152,
+      "id": 136546.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "06694988",
+      "nombreCompleto": "FELIX SANDRO CHAVEZ VASQUEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136546.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 153,
+      "id": 135672.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "10740072",
+      "nombreCompleto": "MARIBEL SANCHEZ ANDERSON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135672.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 154,
+      "id": 135663.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "42092717",
+      "nombreCompleto": "MAURICIO ENRIQUE PALOMINO VIDAL",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135663.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 155,
+      "id": 135679.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "33429232",
+      "nombreCompleto": "OLGA ESPERANZA TEJADA HUAMAN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135679.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 156,
+      "id": 135692.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "10867311",
+      "nombreCompleto": "MANUEL ANTONIO ATO DEL AVELLANAL CARRERA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135692.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 157,
+      "id": 135698.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "47222622",
+      "nombreCompleto": "KAROL ELIZABETH VALENCIA YLLAPUMA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135698.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 158,
+      "id": 135704.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "10274640",
+      "nombreCompleto": "AUGUSTO EDUARDO THORNBERRY NAGGY",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135704.jpg",
+      "estado": "RENUNCIA",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 159,
+      "id": 135707.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "42076967",
+      "nombreCompleto": "MILAGROS ELENA LIZARRAGA ESPINOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135707.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 160,
+      "id": 135710.0,
+      "idOrganizacionPolitica": 2840.0,
+      "organizacionPolitica": "PARTIDO MORADO",
+      "numeroDocumento": "47806931",
+      "nombreCompleto": "JUAN MIGUEL GAMARRA RAMOS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135710.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 161,
+      "id": 137757.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10286501",
+      "nombreCompleto": "ANA MARIA DEL MILAGRO SALINAS MEDINA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137757.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 162,
+      "id": 136398.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10177833",
+      "nombreCompleto": "RENE ALEXANDER GALARRETA ACHAHUANCO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136398.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 163,
+      "id": 136421.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "40491083",
+      "nombreCompleto": "PRIMITIVA PUMAHUAMAN CCAHUA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136421.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 164,
+      "id": 137299.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "06245041",
+      "nombreCompleto": "MOISES VIDAL RAMON GONZALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137299.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 165,
+      "id": 137776.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "41945380",
+      "nombreCompleto": "MELIDA MILAGROS PARDO CABEZAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137776.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 166,
+      "id": 136440.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "42387616",
+      "nombreCompleto": "JUAN ALBERTO MARQUEZ PANDO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136440.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 167,
+      "id": 136447.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "07905989",
+      "nombreCompleto": "ZORAIDA RUCOBA TAPULLIMA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136447.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 168,
+      "id": 136460.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "29602627",
+      "nombreCompleto": "WILSON HUMBERTO DIAZ VILCHEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136460.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 169,
+      "id": 136462.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "06686350",
+      "nombreCompleto": "SIDIA NELIA DONGO CATERIANO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136462.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 170,
+      "id": 136479.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "07630459",
+      "nombreCompleto": "MILTON ERICK GUZMAN GUTIERREZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136479.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 171,
+      "id": 136493.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10369607",
+      "nombreCompleto": "EDDA NORMA MEDRANO PALOMINO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136493.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 172,
+      "id": 136502.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10096084",
+      "nombreCompleto": "ALBERTO HUAMAN TITO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136502.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 173,
+      "id": 136521.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "29648935",
+      "nombreCompleto": "GINA BARRETO SALAMANCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136521.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 174,
+      "id": 136608.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "09688201",
+      "nombreCompleto": "JESUS EDUARDO MAMANI MACHACA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136608.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 175,
+      "id": 136589.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "10516475",
+      "nombreCompleto": "MARIA LUZ PUNTAY ESTRELLA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136589.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 176,
+      "id": 136595.0,
+      "idOrganizacionPolitica": 179.0,
+      "organizacionPolitica": "PARTIDO NACIONALISTA PERUANO",
+      "numeroDocumento": "09400191",
+      "nombreCompleto": "ROMULO VALENTIN DEL PINO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136595.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 177,
+      "id": 137094.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "08747610",
+      "nombreCompleto": "JAVIER FERNANDO ARCE ALVARADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137094.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 178,
+      "id": 137795.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "45857256",
+      "nombreCompleto": "NURY GUISELA JILAPA HUMPIRI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137795.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 179,
+      "id": 137089.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "40444232",
+      "nombreCompleto": "YURI CESAR CASTRO ROMERO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137089.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 180,
+      "id": 135367.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "00451086",
+      "nombreCompleto": "HERMINIA SARMIENTO CHAMBI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135367.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 181,
+      "id": 135648.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "02615397",
+      "nombreCompleto": "CARLOS RODRIGO SHIRAISHI ORNA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135648.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 182,
+      "id": 137100.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "08663070",
+      "nombreCompleto": "ILIA SANDRA ESPINOZA MANRIQUE DE LARA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137100.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 183,
+      "id": 135422.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "40950318",
+      "nombreCompleto": "ROGELIO JAVIER HUAMANI CARBAJAL",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135422.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 184,
+      "id": 137781.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "40916564",
+      "nombreCompleto": "SHILA KAROL YSUIZA CUMAPA DE CARDENAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137781.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 185,
+      "id": 137809.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "23991800",
+      "nombreCompleto": "RUBEN DARIO APAZA AÑAMURO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137809.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 186,
+      "id": 135684.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "40867606",
+      "nombreCompleto": "PATRICIA DANY ARAUCO VARILLAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135684.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 187,
+      "id": 136541.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "03383540",
+      "nombreCompleto": "JOSE PASCUAL PALACIOS MOGOLLON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136541.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 188,
+      "id": 136974.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "09783617",
+      "nombreCompleto": "MERCEDES GARCIA TORRES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136974.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 189,
+      "id": 136908.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "15611080",
+      "nombreCompleto": "GLIFORD GETULIO RACACHA VALLADARES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136908.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 190,
+      "id": 137840.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "29689486",
+      "nombreCompleto": "MILCA LOZANO MARIÑO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137840.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 191,
+      "id": 137088.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "09837910",
+      "nombreCompleto": "YURI ANITO MONTES ROJAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137088.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 192,
+      "id": 137001.0,
+      "idOrganizacionPolitica": 2218.0,
+      "organizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE",
+      "numeroDocumento": "48648372",
+      "nombreCompleto": "HIRIANA KIOMARA CORDOVA OLIVA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137001.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 193,
+      "id": 136401.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "06521283",
+      "nombreCompleto": "JORGE JAVIER KOECHLIN VON STEIN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136401.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 194,
+      "id": 136431.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "22504228",
+      "nombreCompleto": "RAQUEL MARGARITA ORDOÑEZ MATAZOGLIO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136431.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 195,
+      "id": 136364.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "04433277",
+      "nombreCompleto": "JEFFREY MOISES KIHIEN PALZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136364.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 196,
+      "id": 134675.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "07534605",
+      "nombreCompleto": "MIRYAM ESTHER DE LA CRUZ ACOSTA DE LOZANO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134675.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 197,
+      "id": 134915.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "08229109",
+      "nombreCompleto": "JORGE ANTONIO SALAS CEDAMANOS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134915.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 198,
+      "id": 134861.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "08858989",
+      "nombreCompleto": "JANET ERLINDA MATIENZO DURAND",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134861.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 199,
+      "id": 136712.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "47437121",
+      "nombreCompleto": "JOHAN CHRISTOPHER SAIRE BRAGA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136712.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 200,
+      "id": 134484.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "07700359",
+      "nombreCompleto": "GLORIA ALEJANDRINA REYES MENDOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134484.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 201,
+      "id": 134191.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "08215990",
+      "nombreCompleto": "MARINO ZOSIMO TRUJILLO ABARCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134191.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 202,
+      "id": 137522.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "46649213",
+      "nombreCompleto": "NATALIA ANGELICA RODRIGUEZ SOTOMAYOR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137522.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 203,
+      "id": 135017.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "41731657",
+      "nombreCompleto": "PAUL MAURICCY FERNANDEZ TACZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135017.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 204,
+      "id": 137488.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "46174315",
+      "nombreCompleto": "MIRNA JARA SCHOSTER",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137488.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 205,
+      "id": 134905.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "40856414",
+      "nombreCompleto": "JORGE HUGO ROMERO BERNALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134905.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 206,
+      "id": 137535.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "48076418",
+      "nombreCompleto": "ROSMERY MARIANA AQUINO ANGLAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137535.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 207,
+      "id": 135106.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "31678010",
+      "nombreCompleto": "MARIANO TEOFILO HUERTA OSTOS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135106.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 208,
+      "id": 137969.0,
+      "idOrganizacionPolitica": 15.0,
+      "organizacionPolitica": "PARTIDO POPULAR CRISTIANO - PPC",
+      "numeroDocumento": "41119926",
+      "nombreCompleto": "GIANNINA MEJIA DEL SOLAR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137969.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 209,
+      "id": 136303.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "45160276",
+      "nombreCompleto": "JOSE LUIS LUNA MORALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136303.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 210,
+      "id": 136305.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "49017178",
+      "nombreCompleto": "JAQUELINE CECILIA GARCIA RODRÍGUEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136305.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 211,
+      "id": 136907.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "09545261",
+      "nombreCompleto": "PERCIN TEODORO DEZA URETA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136907.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 212,
+      "id": 136956.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "47192009",
+      "nombreCompleto": "KAREN ROSA SANDOVAL PRADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136956.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 213,
+      "id": 135276.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "10144733",
+      "nombreCompleto": "LUIS FELIPE CASTILLO OLIVA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135276.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 214,
+      "id": 137508.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "44083386",
+      "nombreCompleto": "MIRIAN ODALIZ RIOS MORALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137508.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 215,
+      "id": 135924.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "43689426",
+      "nombreCompleto": "FRANCISCO MARCO ANTONIO CUEVA ORTIZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135924.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 216,
+      "id": 136663.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "06887469",
+      "nombreCompleto": "PILAR DORIS SAMANIEGO MANRIQUE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136663.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 217,
+      "id": 136627.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "06546740",
+      "nombreCompleto": "PAULO CESAR CUNZA REGALADO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136627.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 218,
+      "id": 137910.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "41254514",
+      "nombreCompleto": "SILVIA KARIN RIOJAS RIVERA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137910.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 219,
+      "id": 136197.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "09749233",
+      "nombreCompleto": "MIGUEL ANGEL MONGE ARANA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136197.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 220,
+      "id": 133860.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "10078461",
+      "nombreCompleto": "ESTHER ZELA MALPARTIDA VARGAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133860.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 221,
+      "id": 137841.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "40465454",
+      "nombreCompleto": "JOAN FRANCO MENDEZ BAZAN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137841.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 222,
+      "id": 133814.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "19925635",
+      "nombreCompleto": "AUREA ESPERANZA TRAVEZAN DE TORRES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/133814.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 223,
+      "id": 137551.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "25780882",
+      "nombreCompleto": "RENZO RAMIREZ NIEVES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137551.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 224,
+      "id": 137905.0,
+      "idOrganizacionPolitica": 2731.0,
+      "organizacionPolitica": "PODEMOS PERU",
+      "numeroDocumento": "07695437",
+      "nombreCompleto": "ANA ELVIRA MONTES ORDOÑEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137905.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 225,
+      "id": 134614.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "06847295",
+      "nombreCompleto": "FIDEL RAMON GONZALES QUINCHO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134614.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 226,
+      "id": 134625.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "45604482",
+      "nombreCompleto": "YENI MERCEDES BAZAN TERRONES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134625.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 227,
+      "id": 134633.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "25630868",
+      "nombreCompleto": "JAVIER OTONIEL PARDO NIMA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134633.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 228,
+      "id": 134644.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "47665875",
+      "nombreCompleto": "HERLY REMUZGO AMBROSIO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134644.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 229,
+      "id": 134735.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "06564706",
+      "nombreCompleto": "GERMAN FERNANDEZ QUISPE",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134735.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 230,
+      "id": 134629.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "25842802",
+      "nombreCompleto": "ELIZABETH SANDRA SALAS LLANQUECHA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134629.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 231,
+      "id": 134635.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "44426801",
+      "nombreCompleto": "HUGO JHONNY VILLALVA HUAMAN",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134635.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 232,
+      "id": 134689.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "42684197",
+      "nombreCompleto": "HERMELINDA RIVADENEIRA LUCAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134689.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 233,
+      "id": 134637.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "42099893",
+      "nombreCompleto": "RENE ROYEHR LEON LANTARON",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134637.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 234,
+      "id": 134704.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "80253993",
+      "nombreCompleto": "ANDREA CHAIÑA LIMA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134704.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 235,
+      "id": 134694.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "10457010",
+      "nombreCompleto": "ELOY ESPINOZA ESCAJADILLO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134694.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 236,
+      "id": 134691.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "46317892",
+      "nombreCompleto": "JHOVANA MARIA NARVAEZ CONTRERAS",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134691.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 237,
+      "id": 134697.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "20704649",
+      "nombreCompleto": "BASILIO FELIX PARIONA MISARI",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134697.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 238,
+      "id": 135791.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "80670375",
+      "nombreCompleto": "VERONICA MILAGROS LAURA VILCA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135791.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 239,
+      "id": 136236.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "01114585",
+      "nombreCompleto": "LINDER TRIGOZO LOPEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/136236.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 240,
+      "id": 137126.0,
+      "idOrganizacionPolitica": 5.0,
+      "organizacionPolitica": "RENACIMIENTO UNIDO NACIONAL",
+      "numeroDocumento": "07762334",
+      "nombreCompleto": "LILI JANNET CARRASCO TUESTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137126.jpg",
+      "estado": "IMPROCEDENTE",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 241,
+      "id": 134857.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "09371970",
+      "nombreCompleto": "GUSTAVO ADOLFO PACHECO VILLAR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 1.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134857.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 242,
+      "id": 134862.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "29731107",
+      "nombreCompleto": "SITZA LITA ROMERO PERALTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 2.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/134862.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 243,
+      "id": 135170.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "29631542",
+      "nombreCompleto": "GILBERTO LORENZO DIAZ PERALTA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 3.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135170.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 244,
+      "id": 135138.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "41714700",
+      "nombreCompleto": "DEISY MAGALY HURTADO SAUCEDO",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 4.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135138.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 245,
+      "id": 135150.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "08189103",
+      "nombreCompleto": "RAFAEL ALBERTO SAVARAIN ECHANDIA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 5.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135150.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 246,
+      "id": 135154.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "02617748",
+      "nombreCompleto": "GLORIA CALERO ROMERO DE GANOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 6.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135154.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 247,
+      "id": 137179.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "46014308",
+      "nombreCompleto": "WILFREDO ZELA GONZALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 7.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/137179.jpg",
+      "estado": "EXCLUSION",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 248,
+      "id": 135157.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "42632560",
+      "nombreCompleto": "LIDIA HAYDEE COARICONA MENDOZA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 8.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135157.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 249,
+      "id": 135575.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "06433597",
+      "nombreCompleto": "JOSE LUIS URVIOLA SANCHEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 9.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135575.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 250,
+      "id": 135212.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "71061757",
+      "nombreCompleto": "NANCY EDITH PEREZ GONZALES",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 10.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135212.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 251,
+      "id": 135162.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "10726177",
+      "nombreCompleto": "LUIS ALBERTO MORENO TAPIA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 11.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135162.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 252,
+      "id": 135164.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "48691725",
+      "nombreCompleto": "LISSETT ROMINA DIAZ VALDEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 12.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135164.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 253,
+      "id": 135474.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "01228837",
+      "nombreCompleto": "ALFONSO TUMPA JAHUIRA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 13.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135474.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 254,
+      "id": 135168.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "42289880",
+      "nombreCompleto": "LIZ MAGALY TEJADA SALAZAR",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 14.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135168.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 255,
+      "id": 135558.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "46060684",
+      "nombreCompleto": "YURI MEJIA LOPEZ",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 15.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135558.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    },
+    {
+      "totalRows": 256,
+      "rowNumber": 256,
+      "id": 135493.0,
+      "idOrganizacionPolitica": 22.0,
+      "organizacionPolitica": "RENOVACION POPULAR",
+      "numeroDocumento": "45486837",
+      "nombreCompleto": "MARYLIN FLORES GUERRA",
+      "cargo": [
+        "REPRESENTANTE ANTE EL PARLAMENTO ANDINO"
+      ],
+      "numeroCandidato": 16.0,
+      "postulaDepartamento": null,
+      "postulaProvincia": null,
+      "postulaDistrito": null,
+      "rutaArchivo": "/Assets/Fotos-HojaVida/135493.jpg",
+      "estado": "INSCRITO",
+      "txGuidArchivoOrigen": null,
+      "candidates": []
+    }
+  ],
+  "totalPages": 1
+}

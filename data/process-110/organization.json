@@ -1,0 +1,884 @@
+[
+    {
+        "idOrganizacionPolitica": 4,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "ACCION POPULAR"
+    },
+    {
+        "idOrganizacionPolitica": 131,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "ACCION REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2856,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "ALIANZA GOBIERNO UNIDAD Y ACCION"
+    },
+    {
+        "idOrganizacionPolitica": 2809,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "ALIANZA LIBERTAD MADREDIOSENSE"
+    },
+    {
+        "idOrganizacionPolitica": 1257,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "ALIANZA PARA EL PROGRESO"
+    },
+    {
+        "idOrganizacionPolitica": 2710,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "ALIANZA POR NUESTRO DESARROLLO"
+    },
+    {
+        "idOrganizacionPolitica": 2261,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AREQUIPA - UNIDOS POR EL GRAN CAMBIO"
+    },
+    {
+        "idOrganizacionPolitica": 443,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AREQUIPA RENACE"
+    },
+    {
+        "idOrganizacionPolitica": 2313,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AREQUIPA TRANSFORMACION"
+    },
+    {
+        "idOrganizacionPolitica": 142,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AREQUIPA, TRADICION Y FUTURO"
+    },
+    {
+        "idOrganizacionPolitica": 153,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AUTOGOBIERNO AYLLU"
+    },
+    {
+        "idOrganizacionPolitica": 2173,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "AVANZA PAIS - PARTIDO DE INTEGRACION SOCIAL"
+    },
+    {
+        "idOrganizacionPolitica": 2201,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "AVANZADA REGIONAL INDEPENDIENTE UNIDOS POR HUANUCO"
+    },
+    {
+        "idOrganizacionPolitica": 1600,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "BANDERAS TACNEÑISTAS"
+    },
+    {
+        "idOrganizacionPolitica": 1464,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CAJAMARCA SIEMPRE VERDE"
+    },
+    {
+        "idOrganizacionPolitica": 122,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CAMINEMOS JUNTOS POR JUNIN"
+    },
+    {
+        "idOrganizacionPolitica": 332,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CONCERTACION PARA EL DESARROLLO REGIONAL - LIMA"
+    },
+    {
+        "idOrganizacionPolitica": 2652,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CONTIGO CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2862,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CONTIGO REGION"
+    },
+    {
+        "idOrganizacionPolitica": 2729,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "CORAZON PATRIOTA"
+    },
+    {
+        "idOrganizacionPolitica": 2898,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "FE EN EL PERU"
+    },
+    {
+        "idOrganizacionPolitica": 1670,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE AMPLIO PARA EL DESARROLLO DEL PUEBLO"
+    },
+    {
+        "idOrganizacionPolitica": 1683,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE DE INTEGRACION REGIONAL MOQUEGUA EMPRENDEDORA FIRME"
+    },
+    {
+        "idOrganizacionPolitica": 2708,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE ESPERANZA POR TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 2901,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "FRENTE POPULAR AGRICOLA FIA DEL PERU"
+    },
+    {
+        "idOrganizacionPolitica": 160,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE REGIONAL DE CAJAMARCA"
+    },
+    {
+        "idOrganizacionPolitica": 2911,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE REGIONAL TUPAC"
+    },
+    {
+        "idOrganizacionPolitica": 2718,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRENTE UNITARIO POPULAR"
+    },
+    {
+        "idOrganizacionPolitica": 2875,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FRONTERA VIVA"
+    },
+    {
+        "idOrganizacionPolitica": 1393,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FUERZA AREQUIPEÑA"
+    },
+    {
+        "idOrganizacionPolitica": 2766,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FUERZA CALLAO SEGURO"
+    },
+    {
+        "idOrganizacionPolitica": 2164,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FUERZA INKA AMAZONICA"
+    },
+    {
+        "idOrganizacionPolitica": 61,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "FUERZA LORETANA"
+    },
+    {
+        "idOrganizacionPolitica": 1366,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "FUERZA POPULAR"
+    },
+    {
+        "idOrganizacionPolitica": 2667,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "GESTIONANDO OBRAS Y OPORTUNIDADES CON LIDERAZGO"
+    },
+    {
+        "idOrganizacionPolitica": 2886,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "HATARIY APURIMAC"
+    },
+    {
+        "idOrganizacionPolitica": 2234,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "IDENTIDAD REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 1403,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "IGUALDAD NACIONAL CRISTIANA AUTONOMA - INCA"
+    },
+    {
+        "idOrganizacionPolitica": 2716,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "JUNIN RENACE"
+    },
+    {
+        "idOrganizacionPolitica": 303,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "JUNIN SOSTENIBLE CON SU GENTE"
+    },
+    {
+        "idOrganizacionPolitica": 2257,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "JUNTOS POR EL DESARROLLO DE AREQUIPA"
+    },
+    {
+        "idOrganizacionPolitica": 1264,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "JUNTOS POR EL PERU"
+    },
+    {
+        "idOrganizacionPolitica": 2871,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "JUNTOS POR LORETO"
+    },
+    {
+        "idOrganizacionPolitica": 2868,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "JUNTOS POR TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 2381,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "KAUSACHUN"
+    },
+    {
+        "idOrganizacionPolitica": 2873,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "LORETO PARA TODOS"
+    },
+    {
+        "idOrganizacionPolitica": 2907,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MISION ORGANIZADA VIA INTEGRIDAD Y LIBERTAD"
+    },
+    {
+        "idOrganizacionPolitica": 292,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MORAL Y DESARROLLO"
+    },
+    {
+        "idOrganizacionPolitica": 2432,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMENTO INDEPENDIENTE REGIONAL FUERZA TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 360,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO ACCION NACIONALISTA PERUANO"
+    },
+    {
+        "idOrganizacionPolitica": 2866,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO ACCION REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2351,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO CIVICO PERUANO"
+    },
+    {
+        "idOrganizacionPolitica": 2647,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO DE INCLUSION REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2668,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION POR EL DESARROLLO REGIONAL (MI CASITA)"
+    },
+    {
+        "idOrganizacionPolitica": 2702,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO DE INTEGRACION Y REVOLUCION ANDINA"
+    },
+    {
+        "idOrganizacionPolitica": 150,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO ESPERANZA REGION AMAZONICA"
+    },
+    {
+        "idOrganizacionPolitica": 1441,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE AMOR POR MADRE DE DIOS"
+    },
+    {
+        "idOrganizacionPolitica": 1388,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE FUERZA REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 315,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE LORETO - MI LORETO"
+    },
+    {
+        "idOrganizacionPolitica": 2333,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE POLITICO VOLUNTAD GENERAL AMAZONICA - VOGA "
+    },
+    {
+        "idOrganizacionPolitica": 2687,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL ANCASH A LA OBRA"
+    },
+    {
+        "idOrganizacionPolitica": 2278,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL CAMBIO UCAYALINO"
+    },
+    {
+        "idOrganizacionPolitica": 2162,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL HUANUCO PRIMERO"
+    },
+    {
+        "idOrganizacionPolitica": 2730,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL MI BUEN VECINO"
+    },
+    {
+        "idOrganizacionPolitica": 1474,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL PURO ANCASH"
+    },
+    {
+        "idOrganizacionPolitica": 2916,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REGIONAL: MOVIMIENTO AMPLIO Y  SOLIDARIO: SOMOS MAS"
+    },
+    {
+        "idOrganizacionPolitica": 2874,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE REIVINDIQUEMOS LORETO"
+    },
+    {
+        "idOrganizacionPolitica": 226,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO INDEPENDIENTE TRABAJANDO PARA TODOS"
+    },
+    {
+        "idOrganizacionPolitica": 2915,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO POLITICO \"COMPROMISO Y DESARROLLO\""
+    },
+    {
+        "idOrganizacionPolitica": 2733,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO POLITICO CAMBIEMOS X HCO"
+    },
+    {
+        "idOrganizacionPolitica": 2754,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO POLITICO REGIONAL DIGNIDAD TUMBESINA"
+    },
+    {
+        "idOrganizacionPolitica": 2229,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO POLITICO REGIONAL ENERGIA COMUNAL AMAZONICA"
+    },
+    {
+        "idOrganizacionPolitica": 2891,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO POLITICO REGIONAL SUMATE AL CAMBIO"
+    },
+    {
+        "idOrganizacionPolitica": 2861,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL AGUA"
+    },
+    {
+        "idOrganizacionPolitica": 2681,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL AGUA"
+    },
+    {
+        "idOrganizacionPolitica": 2879,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL ALIADOS POR EL CAMBIO JUNIN"
+    },
+    {
+        "idOrganizacionPolitica": 40,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL AMAZONENSE UNIDOS AL CAMPO"
+    },
+    {
+        "idOrganizacionPolitica": 2307,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL AREQUIPA AVANCEMOS"
+    },
+    {
+        "idOrganizacionPolitica": 136,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL AYNI"
+    },
+    {
+        "idOrganizacionPolitica": 2906,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL BICENTENARIO"
+    },
+    {
+        "idOrganizacionPolitica": 2169,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL BLOQUE POPULAR JUNIN"
+    },
+    {
+        "idOrganizacionPolitica": 1442,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL CONSTRUYENDO"
+    },
+    {
+        "idOrganizacionPolitica": 2920,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL DEL AJO AREQUIPA CON JUSTICIA Y ORDEN"
+    },
+    {
+        "idOrganizacionPolitica": 2245,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL EL MAICITO"
+    },
+    {
+        "idOrganizacionPolitica": 2738,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL FORTALEZA PERU"
+    },
+    {
+        "idOrganizacionPolitica": 2300,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL FUERZA POR MADRE DE DIOS - MR FMDD"
+    },
+    {
+        "idOrganizacionPolitica": 2694,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL GANA AYACUCHO"
+    },
+    {
+        "idOrganizacionPolitica": 2900,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL HATUN LLAQTA"
+    },
+    {
+        "idOrganizacionPolitica": 2368,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL INKA PACHAKUTEQ"
+    },
+    {
+        "idOrganizacionPolitica": 2753,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL JUVENTUD PASQUEÑA"
+    },
+    {
+        "idOrganizacionPolitica": 2676,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL MAS CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2918,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL MOQUEGUA AVANZA SEGURA"
+    },
+    {
+        "idOrganizacionPolitica": 2244,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL OBRAS POR LA MODERNIDAD"
+    },
+    {
+        "idOrganizacionPolitica": 2719,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL REVALORA"
+    },
+    {
+        "idOrganizacionPolitica": 2680,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL SIERRA Y SELVA CONTIGO JUNIN"
+    },
+    {
+        "idOrganizacionPolitica": 2896,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL SOMOS CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2888,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL SOMOS MAS"
+    },
+    {
+        "idOrganizacionPolitica": 2903,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL SUMA"
+    },
+    {
+        "idOrganizacionPolitica": 2306,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL UNIDAD CIVICA LIMA"
+    },
+    {
+        "idOrganizacionPolitica": 2880,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL VIVA EL CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2693,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL VIVA TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 2706,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO REGIONAL WARI LLAQTA"
+    },
+    {
+        "idOrganizacionPolitica": 2691,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO RESISTENCIA AMAZONICA"
+    },
+    {
+        "idOrganizacionPolitica": 2910,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO VERDE DE UCAYALI"
+    },
+    {
+        "idOrganizacionPolitica": 2343,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "MOVIMIENTO VERDE UNIDO"
+    },
+    {
+        "idOrganizacionPolitica": 2497,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "NUESTRO ILO - MOQUEGUA - SANCHEZ CERRO"
+    },
+    {
+        "idOrganizacionPolitica": 51,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "NUEVA AMAZONIA"
+    },
+    {
+        "idOrganizacionPolitica": 2232,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "NUEVA LIBERTAD"
+    },
+    {
+        "idOrganizacionPolitica": 2711,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "ORGANIZACION POLITICA UNIDAD REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2904,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PARA LA TRANSFORMACION, INTEGRACION Y ALIANZA-PATRIA"
+    },
+    {
+        "idOrganizacionPolitica": 2895,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO DEMOCRATA VERDE"
+    },
+    {
+        "idOrganizacionPolitica": 14,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO DEMOCRATICO SOMOS PERU"
+    },
+    {
+        "idOrganizacionPolitica": 2857,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO FRENTE DE LA ESPERANZA 2021"
+    },
+    {
+        "idOrganizacionPolitica": 2840,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO MORADO"
+    },
+    {
+        "idOrganizacionPolitica": 2869,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO PATRIOTICO DEL PERU"
+    },
+    {
+        "idOrganizacionPolitica": 2218,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PARTIDO POLITICO NACIONAL PERU LIBRE"
+    },
+    {
+        "idOrganizacionPolitica": 1705,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PASCO DIGNIDAD"
+    },
+    {
+        "idOrganizacionPolitica": 2725,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PASCO UNIDO"
+    },
+    {
+        "idOrganizacionPolitica": 2353,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PASCO VERDE"
+    },
+    {
+        "idOrganizacionPolitica": 553,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PATRIA JOVEN"
+    },
+    {
+        "idOrganizacionPolitica": 2876,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PIURA RENACE"
+    },
+    {
+        "idOrganizacionPolitica": 2731,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "PODEMOS PERU"
+    },
+    {
+        "idOrganizacionPolitica": 2338,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PODER ANDINO"
+    },
+    {
+        "idOrganizacionPolitica": 2230,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "POR LAS COMUNIDADES FUENTE DE INTEGRACION ANDINA DE PUNO - CONFIA - PUNO"
+    },
+    {
+        "idOrganizacionPolitica": 2199,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "POR TI CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2737,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "PROGRESISTA DE APURIMAC"
+    },
+    {
+        "idOrganizacionPolitica": 2912,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "ALIANZAS ELECTORALES",
+        "strOrganizacionPolitica": "REFORMA Y HONRADEZ POR MAS OBRAS"
+    },
+    {
+        "idOrganizacionPolitica": 1411,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "REGION PARA TODOS"
+    },
+    {
+        "idOrganizacionPolitica": 22,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "PARTIDOS POLITICOS",
+        "strOrganizacionPolitica": "RENOVACION POPULAR"
+    },
+    {
+        "idOrganizacionPolitica": 2171,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "RENOVACION TUMBESINA"
+    },
+    {
+        "idOrganizacionPolitica": 2277,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SENTIMIENTO AMAZONENSE REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2902,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SI SE PUEDE CALLAO"
+    },
+    {
+        "idOrganizacionPolitica": 2178,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SIEMPRE TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 2881,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SOCIOS POR ANCASH"
+    },
+    {
+        "idOrganizacionPolitica": 2657,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SOMOS PUEBLO"
+    },
+    {
+        "idOrganizacionPolitica": 67,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "SUMATE"
+    },
+    {
+        "idOrganizacionPolitica": 2712,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "TODOS POR EL GRAN CAMBIO"
+    },
+    {
+        "idOrganizacionPolitica": 1396,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "TODOS SOMOS UCAYALI"
+    },
+    {
+        "idOrganizacionPolitica": 2884,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "TRABAJO MAS TRABAJO"
+    },
+    {
+        "idOrganizacionPolitica": 233,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "UCAYALI REGION CON FUTURO"
+    },
+    {
+        "idOrganizacionPolitica": 2759,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "UNIDAD, EXPERIENCIA Y TRABAJO CON ETICA"
+    },
+    {
+        "idOrganizacionPolitica": 2722,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "UNION REGIONAL"
+    },
+    {
+        "idOrganizacionPolitica": 2701,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "UNO POR ICA"
+    },
+    {
+        "idOrganizacionPolitica": 2917,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "VAMOS MOQUEGUA"
+    },
+    {
+        "idOrganizacionPolitica": 2908,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "VAMOS POR TACNA"
+    },
+    {
+        "idOrganizacionPolitica": 2878,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "VICTORIA AMAZONENSE"
+    },
+    {
+        "idOrganizacionPolitica": 2744,
+        "idProcesoElectoral": 113,
+        "strTipoOrganizacion": "MOVIMIENTOS REGIONALES O DEPARTAMENTALES",
+        "strOrganizacionPolitica": "YO AREQUIPA"
+    }
+]
