@@ -3,7 +3,7 @@ import Link from "next/link";
 import { buttonVariants } from "@/components/ui/button";
 import { usePathname } from "next/navigation";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "../ui/select";
-import { NEXT_APP_NAME } from "@/config/api.config";
+import Image from "next/image";
 
 
 function HeaderLayout() {
@@ -21,7 +21,7 @@ return (
             <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
                 <Link href="/" className="text-2xl font-bold text-gray-900">
-                    <h1 className="text-xl font-bold">{ NEXT_APP_NAME }</h1>
+                    <Image width={134} height={40} src="politiquien_logo.svg" alt="logo"/>
                 </Link>
             </div>
             <nav className="space-x-2">

@@ -100,7 +100,7 @@ export default function CandidateList() {
                 <div className="flex flex-row justify-between items-center gap-2">
                 <TabsList>
                     <TabsTrigger value="row"><ListIcon/></TabsTrigger>
-                    <TabsTrigger value="card"><BsGrid3X3Gap/></TabsTrigger>
+                    {/* <TabsTrigger value="card"><BsGrid3X3Gap/></TabsTrigger> */}
                 </TabsList>
                 <div className="flex items-center justify-between">
                     <div className="flex w-full items-center gap-4 lg:w-fit">
