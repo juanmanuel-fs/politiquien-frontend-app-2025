@@ -10,8 +10,8 @@ export default function FontPageHome() {
         <div>
             <div className='relative'>
                 <Image className="h-[360px] w-full object-cover rounded-lg" src="/front_page.png" alt="Elecciones Presidenciales 2026" width={1200} height={360} priority />
-                <div className="absolute top-0 left-0 right-0 bottom-0 p-4">
-                    <h1 className="text-4xl font-black text-white text-shadow-sm text-shadow-stone-600">Elecciones Presidenciales<br /> 2026</h1>
+                <div className="absolute top-0 left-0 right-0 bottom-0 p-6 flex flex-col justify-center  bg-opacity-50 rounded-lg">
+                    <h1 className="text-5xl font-black text-white text-shadow-sm text-shadow-stone-600">Elecciones Generales<br/>2026</h1>
                 </div>
             </div>
             <div className="grid grid-cols-3 gap-2 mt-2">
