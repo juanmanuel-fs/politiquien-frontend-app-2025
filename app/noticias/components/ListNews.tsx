@@ -127,7 +127,7 @@ function ListNews({ news }: ListNewsProps) {
     <>
       <div className='basis-8/12 overflow-auto'>
         <div className='flex flex-row gap-4 justify-between mb-2 items-center'>
-          <h2 className='text-title3 '>ÚLTIMAS NOTICIAS</h2>
+          <h2 className='text-title3 underline text-red-600 font-semibold'>VERIFICACIONES</h2>
           <div className='flex flex-row gap-2 md:gap-4'>
             <Button variant="secondary"  disabled={true}><SlArrowLeft/></Button>
             <Button variant="secondary" ><SlArrowRight/></Button>

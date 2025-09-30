@@ -10,7 +10,7 @@ function FeaturedNews({ news }: FeaturedNewsProps) {
   
   return (
     <div className='basis-4/12'>
-      <h2 className='text-title3 mb-4'>NOTICIAS DESTACADAS</h2>
+      <h2 className='text-title3 mb-4 text-red-600 font-bold underline'>ABC DEL ELECTOR</h2>
       <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-1 gap-4'>
         {news.slice(0, 6).map((newsItem) => (
           <FeaturedNewsCard key={newsItem.id} news={newsItem} />
